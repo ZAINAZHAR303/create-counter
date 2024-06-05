@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color:#a7c957 ;
+}
+.center h1{
+    font-size: 56px;
+    margin: 20px ;
+}
+
+.center .button{
+    margin: 10px;
+    padding: 10px;
+    background-color: #bc4749;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    
+}
